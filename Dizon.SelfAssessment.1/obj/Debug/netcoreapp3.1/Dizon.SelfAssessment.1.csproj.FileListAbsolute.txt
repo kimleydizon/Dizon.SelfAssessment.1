@@ -1,0 +1,14 @@
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.csproj.AssemblyReference.cache
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.AssemblyInfoInputs.cache
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.AssemblyInfo.cs
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.csproj.CoreCompileInputs.cache
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\bin\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.exe
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\bin\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.deps.json
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\bin\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.runtimeconfig.json
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\bin\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.runtimeconfig.dev.json
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\bin\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.dll
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\bin\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.pdb
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.dll
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.pdb
+C:\Users\Kimley\source\repos\NEW\Dizon.SelfAssessment.1\Dizon.SelfAssessment.1\obj\Debug\netcoreapp3.1\Dizon.SelfAssessment.1.genruntimeconfig.cache
